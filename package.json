@@ -16,5 +16,10 @@
     "url": "https://github.com/tgbz/todolist/issues"
   },
   "homepage": "https://github.com/tgbz/todolist#readme",
-  "keywords": ["todo list"]
+  "keywords": [
+    "todo list"
+  ],
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
